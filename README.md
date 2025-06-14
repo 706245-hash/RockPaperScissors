@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-![ToDo CLI Screenshot](todopic.PNG) 
+![ToDo CLI Screenshot](screenshot.PNG) 
 
 A colourful, terminal-based Rock Paper scissoirs game with statistics tracking and best-of-three mode.
 
